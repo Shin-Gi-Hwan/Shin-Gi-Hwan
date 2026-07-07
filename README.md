@@ -104,7 +104,7 @@ AI 기반 외주·포트폴리오 플랫폼
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shin-Gi-Hwan)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shin-Gi-Hwan&show_icons=true&theme=tokyonight)
 
 </div>
 
