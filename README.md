@@ -10,9 +10,6 @@ Java & Spring 기반으로 **정확성**, **안정성**, **유지보수성**을 
 
 <br>
 
-[![GitHub followers](https://img.shields.io/github/followers/Shin-Gi-Hwan?style=for-the-badge)](https://github.com/Shin-Gi-Hwan)
-[![GitHub stars](https://img.shields.io/github/stars/Shin-Gi-Hwan?style=for-the-badge)](https://github.com/Shin-Gi-Hwan)
-
 </div>
 
 ---
