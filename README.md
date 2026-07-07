@@ -104,7 +104,7 @@ AI 기반 외주·포트폴리오 플랫폼
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-Gi-Hwan&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shin-Gihwan&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-Gi-Hwan&layout=compact&theme=tokyonight)
 
