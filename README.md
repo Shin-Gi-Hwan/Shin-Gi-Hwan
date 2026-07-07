@@ -126,6 +126,6 @@ AI 기반 외주·포트폴리오 플랫폼
 
 ### 📫 Contact
 
-📧 your@email.com
+📧 tlsrlghks159874@gmail.com
 
 </div>
